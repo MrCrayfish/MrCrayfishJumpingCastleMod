@@ -1,0 +1,90 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "cjcm:castle"
+    },
+    "variants": {
+        "color": {
+            "white": {
+                "textures": {
+                    "all": "blocks/shulker_top_white"
+                }
+            },
+            "orange": {
+                "textures": {
+                    "all": "blocks/shulker_top_orange"
+                }
+            },
+            "magenta": {
+                "textures": {
+                    "all": "blocks/shulker_top_magenta"
+                }
+            },
+            "light_blue": {
+                "textures": {
+                    "all": "blocks/shulker_top_light_blue"
+                }
+            },
+            "yellow": {
+                "textures": {
+                    "all": "blocks/shulker_top_yellow"
+                }
+            },
+            "lime": {
+                "textures": {
+                    "all": "blocks/shulker_top_lime"
+                }
+            },
+            "pink": {
+                "textures": {
+                    "all": "blocks/shulker_top_pink"
+                }
+            },
+            "gray": {
+                "textures": {
+                    "all": "blocks/shulker_top_gray"
+                }
+            },
+            "silver": {
+                "textures": {
+                    "all": "blocks/shulker_top_silver"
+                }
+            },
+            "cyan": {
+                "textures": {
+                    "all": "blocks/shulker_top_cyan"
+                }
+            },
+            "purple": {
+                "textures": {
+                    "all": "blocks/shulker_top_purple"
+                }
+            },
+            "blue": {
+                "textures": {
+                    "all": "blocks/shulker_top_blue"
+                }
+            },
+            "brown": {
+                "textures": {
+                    "all": "blocks/shulker_top_brown"
+                }
+            },
+            "green": {
+                "textures": {
+                    "all": "blocks/shulker_top_green"
+                }
+            },
+            "red": {
+                "textures": {
+                    "all": "blocks/shulker_top_red"
+                }
+            },
+            "black": {
+                "textures": {
+                    "all": "blocks/shulker_top_black"
+                }
+            }
+        }
+    }
+}

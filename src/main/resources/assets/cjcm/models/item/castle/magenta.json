@@ -1,0 +1,6 @@
+{
+    "parent": "cjcm:block/castle",
+    "textures": {
+        "all": "blocks/shulker_top_magenta"
+    }
+}
